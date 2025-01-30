@@ -431,16 +431,16 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363377364667058@newsletter',
-ch2: '120363258427334062@newsletter',
-ch3: '120363258427334062@newsletter',
-ch4: '120363258427334062@newsletter',
-ch5: '120363258427334062@newsletter',
-ch6: '120363258427334062@newsletter',
-ch7: '120363258427334062@newsletter',
-ch8: '120363258427334062@newsletter', 
-ch9: '120363258427334062@newsletter',
-ch10: '120363258427334062@newsletter',
+ch1: '120363392186972160@newsletter',
+ch2: '120363392186972160@newsletter',
+ch3: '120363392186972160@newsletter',
+ch4: '120363392186972160@newsletter',
+ch5: '120363392186972160@newsletter',
+ch6: '120363392186972160@newsletter',
+ch7: '120363392186972160@newsletter',
+ch8: '120363392186972160@newsletter', 
+ch9: '120363392186972160@newsletter',
+ch10: '120363392186972160@newsletter',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -457,10 +457,10 @@ global.md = 'https://www.instagram.com/_19amv'
 global.fb = 'https://www.instagram.com/_19amv'
 global.tk = 'https://www.instagram.com/_19amv'
 global.ths = 'https://www.instagram.com/_19amv'
-global.paypal = 'https://paypal.me/richetti123'
+global.paypal = 'https://paypal.me/AdrianaTorres777'
 global.asistencia = 'https://wa.me/17737273960'
 global.all = 'https://www.instagram.com/_19amv'
-global.canal1 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
-global.canal2 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
-global.canal3 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
-global.canal4 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
+global.canal1 = 'https://whatsapp.com/channel/0029VaywicYE50Uk9ZxhgC1q'
+global.canal2 = 'https://whatsapp.com/channel/0029VaywicYE50Uk9ZxhgC1q'
+global.canal3 = 'https://whatsapp.com/channel/0029VaywicYE50Uk9ZxhgC1q'
+global.canal4 = 'https://whatsapp.com/channel/0029VaywicYE50Uk9ZxhgC1q'
